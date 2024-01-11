@@ -1,3 +1,6 @@
 ficheiro 2 criado na maquina - ramo_01 - v1
 
 atualizado no HUB - v3
+****************
+
+versão alterada na máquina - v6
